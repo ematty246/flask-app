@@ -1,4 +1,4 @@
-# flask-app  
+# flask-app
 
 A short description of what this project does.
 
